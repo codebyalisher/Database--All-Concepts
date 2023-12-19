@@ -4,7 +4,7 @@ Concepts about Database require for Backend Development:
 What is a database?  In simple and easy words ,The Physical storage of data on device.
 How is data related? To sustain the real world record for various purposes ,data is necessary.
 Alternative types of databases: Object database ,Graph, JSON and document. These can be Relational and non relational Databases.
-What is the RDBMS: It is a system that is used to control and manage the different operations on databases.
+What is the RDBMS: It is a system that is used to control and manage the different operations on databases.,
 Architecture of the RDBMS(Relational Data Base Management System) : There are 3 levels
 1-External Level: It consists of views/results of data to client.
 2-Conceptual Level: this level defined the structural/logical storage of data.
