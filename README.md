@@ -1,6 +1,5 @@
 Concepts about Database require for Backend Development: 
-![Uploading image.png…]()
-
+![image](https://github.com/codebyalisher/Database--All-Concepts/assets/62823194/44a91914-51c0-4fca-839b-ee9d29598e0b)
 ✒️
 What is a database?  In simple and easy words ,The Physical storage of data on device.
 How is data related? To sustain the real world record for various purposes ,data is necessary.
