@@ -101,7 +101,9 @@ Operators in use:
 
 **SQL Comparison operators:** (=.\<,\>,=\>)
 
-**ORDER BY clause:** to arrange the values in the specific order either in ascending or descending
+**ORDER BY clause:** to arrange/sort the values/result in the specific order either in ascending or descending of the spcified column i.e.alphabetically or in numbering of that clmn.
+
+** Group By clause:** to get the result on the behalf of repeated/same values for the specified columns .used for aggregate funcions
 
 **WHERE clause:** To perform the queries on the condition base.
 
@@ -115,7 +117,7 @@ Operators in use:
 
 **Having:** it is used when where cant be used with aggerigate functions i.e. select\* from tablename having count(cn)\>5 order by cn asc/desc
 
-**JOINS(INNER,LEFT,RIGHT,FULL JOIN):** select cn,cn from table inner join tablename on cn=cn
+**JOINS(INNER,LEFT,RIGHT,FULL JOIN):** select cn,cn from table inner join tablename on cn=cn,joins mean to get result on the matching of the values with respect to the specified tables 
 
 **CASE:** select cn,cn case when cn\>30 then ‘message’ when cn\<20 then ‘message’ else ‘message’ end
 
