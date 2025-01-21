@@ -107,7 +107,7 @@ Operators in use:
 
 **WHERE clause:** To perform the queries on the condition base.
 
-** WHERE clause filters individual rows, whereas the HAVING clause filters groups instead of one row at a time**
+** WHERE clause filters individual rows, whereas the HAVING clause filters groups instead of one row at a time,The HAVING clause is typically used with GROUP BY to filter aggregated results,**
 
 **SELECT DISTINCT clause:** distinct shows the once of duplicate values
 
