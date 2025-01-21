@@ -107,6 +107,8 @@ Operators in use:
 
 **WHERE clause:** To perform the queries on the condition base.
 
+** WHERE clause filters individual rows, whereas the HAVING clause filters groups instead of one row at a time**
+
 **SELECT DISTINCT clause:** distinct shows the once of duplicate values
 
 **Aggregate Functions:** min(),max(),sum(),avg(),
