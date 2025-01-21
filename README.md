@@ -115,7 +115,7 @@ Operators in use:
 
 **Like:** select\* from tablename where cn like%a,a%,-a%,a-%,[a-z,\*,\#,%]
 
-**Between/In:** select \* from tablename where cn btween value AND value. IN is the shorthand of the OR operator.
+**Between/In:** select \* from tablename where cn btween value AND value. IN is the shorthand of the OR operator.The IN operator should be used in the WHERE clause to filter records based on a set/list of values.
 
 **Having:** it is used when where cant be used with aggerigate functions i.e. select\* from tablename having count(cn)\>5 order by cn asc/desc
 
